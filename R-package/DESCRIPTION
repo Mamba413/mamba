@@ -1,0 +1,14 @@
+Package: mamba
+Type: Package
+Title: What the Package Does in One 'Title Case' Line
+Version: 1.0.0
+Date: 2018-01-07
+Author: Jin Zhu
+Maintainer: Jin Zhu <zhuj37@mail2.sysu.edu.cn>
+Description: For Kobe Bryant, Mamba Killer!
+Depends: R (>= 3.0.0)
+Imports: stats
+Suggests: knitr, rmarkdown
+License: GPL (>= 2)
+RoxygenNote: 6.0.1
+NeedsCompilation: yes
