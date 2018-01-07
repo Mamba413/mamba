@@ -1,3 +1,10 @@
+# Script to make a clean installable python package.
+clean_all:
+				cp -r src/* python-package
+				cd python-package
+				swig -python cword.i
+				python setup.py build
+
 # Script to make a clean installable R package.
 clean_all: 
 				rm -rf mamba mamba*.tar.gz

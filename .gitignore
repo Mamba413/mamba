@@ -2,3 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+python-package/cword_wrap.c
+python-package/cword.py
+python-package/cword.h
+python-package/cword.c
+python-package/build/temp.win-amd64-3.6/Release/_cword.cp36-win_amd64.exp
+python-package/build/lib.win-amd64-3.6/cword.py
+python-package/build/lib.win-amd64-3.6/_cword.cp36-win_amd64.pyd
+python-package/build/lib.win-amd64-3.6/__pycache__/cword.cpython-36.pyc
+python-package/__pycache__/cword.cpython-36.pyc
