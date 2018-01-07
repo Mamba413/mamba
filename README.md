@@ -1,4 +1,4 @@
-<img src=https://github.com/Mamba413/git_picture/blob/master/mamba.png width=135/> Mamba
+<img src=https://github.com/Mamba413/git_picture/blob/master/mamba.jpg width=135/> Mamba
 ===========
 
 ### Introduction      
