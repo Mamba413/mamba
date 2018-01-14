@@ -9,6 +9,6 @@ mamba <- function() {
   i <- as.integer(i)
   mamba_word <- as.character("")
   mamba_word <- .C("word", i, mamba_word)[[2]]
-  mamba_word
+  cat(mamba_word, "\n")
 }
 

@@ -1,1 +1,2 @@
 http://dept.stat.lsa.umich.edu/~yizwang/software/maxLinear/AlanRPackageTutorial.pdf
+https://www.cnblogs.com/kaituorensheng/p/4464117.html

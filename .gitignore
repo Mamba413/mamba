@@ -11,3 +11,9 @@ python-package/build/lib.win-amd64-3.6/cword.py
 python-package/build/lib.win-amd64-3.6/_cword.cp36-win_amd64.pyd
 python-package/build/lib.win-amd64-3.6/__pycache__/cword.cpython-36.pyc
 python-package/__pycache__/cword.cpython-36.pyc
+python-package/build/temp.win-amd64-3.6/Release/_cword_pyc.cp36-win_amd64.exp
+python-package/__pycache__/cword_pyc.cpython-36.pyc
+python-package/build/lib.win-amd64-3.6/mamba.py
+python-package/build/lib.win-amd64-3.6/cword_pyc.py
+python-package/build/lib.win-amd64-3.6/_cword_pyc.cp36-win_amd64.pyd
+python-package/build/lib.win-amd64-3.6/__pycache__/cword_pyc.cpython-36.pyc
