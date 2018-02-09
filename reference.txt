@@ -1,2 +1,5 @@
 http://dept.stat.lsa.umich.edu/~yizwang/software/maxLinear/AlanRPackageTutorial.pdf
 https://www.cnblogs.com/kaituorensheng/p/4464117.html
+http://python.jobbole.com/86443/
+https://docs.python.org/2/distutils/setupscript.html#relationships-between-distributions-and-packages
+http://blog.csdn.net/weixin_39661613/article/details/77096524
